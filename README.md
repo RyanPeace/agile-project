@@ -20,7 +20,7 @@ Your project is live at:
 
 Continue building your app on:
 
-**[https://v0.dev/chat/projects/SbGyBmn5MS8](https://v0.dev/chat/projects/SbGyBmn5MS8)**
+**[https://agile-project-five.vercel.app/](https://agile-project-five.vercel.app/)**
 
 ## How It Works
 
